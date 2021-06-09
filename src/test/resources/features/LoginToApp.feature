@@ -7,5 +7,3 @@ Feature:
     When I get to the homepage
     Then it will only display the account balance
     And activities/transactions for children
-    
-    
